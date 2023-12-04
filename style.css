@@ -20,3 +20,10 @@ body > #prt1 {
     text-align: center;
     background-color: gray;
 }
+#imageme {
+    text-align: center;
+}
+img {
+    max-width: 50%;
+    max-height: 50%;
+}
