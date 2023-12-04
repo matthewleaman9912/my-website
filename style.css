@@ -10,7 +10,7 @@ h1 {
 h2 {
     text-align: center;
 }
-body > #prt1 {
+#prt1 {
     font-size: larger;
     width: 800px;
     border: 2px;
